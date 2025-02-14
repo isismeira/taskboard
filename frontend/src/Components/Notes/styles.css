@@ -22,7 +22,7 @@ li.notepad-infos div div {
 }
 
 li.notepad-infos div div:hover{
-    color: #024959;
+    color: #7A8897;
     transition: 0.2s;
 }
 
@@ -49,6 +49,6 @@ li.notepad-infos span {
 }
 
 li.notepad-infos span:hover{
-    color: #024959;
+    color: #7A8897;
     transition: 0.2s;
 }

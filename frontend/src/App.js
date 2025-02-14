@@ -134,6 +134,7 @@ function App() {
           selectedValue={selectedValue}
           handleChange={handleChange}
         />
+        <img src="/landscape.gif" alt="Descrição do GIF" />
       </aside>
       <main>
         <ul>
