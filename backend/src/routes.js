@@ -6,9 +6,9 @@ const PriorityController = require('./controllers/PriorityController')
 const ContentController = require('./controllers/ContentController')
 
 // Rota Annotations
-routes.post('/annotations', AnnotationController.create)
-routes.get('/annotations', AnnotationController.read)
-routes.delete('/annotations/:id', AnnotationController.delete)
+routes.post('/api//annotations', AnnotationController.create)
+routes.get('/api/annotations', AnnotationController.read)
+routes.delete('/api/annotations/:id', AnnotationController.delete)
 
 // Rota Priority
 routes.get('/priorities', PriorityController.read)
